@@ -10,9 +10,9 @@ from fpdf import FPDF
 logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
                     level=logging.WARNING)
 
-api_id = 2880033
-api_hash = 'b243e497652c02395449fe582477aba2'
-bot_token = '2017696690:AAFiPHB_IUt8xKFIAsKjQhiliszwpYvRBFs'
+api_id = 
+api_hash = 
+bot_token = 
 
 db = bot_db.Db()
 db.create()
